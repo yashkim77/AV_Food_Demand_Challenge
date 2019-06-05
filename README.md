@@ -31,6 +31,6 @@ Your initial responses will be checked and scored on the Public data.
 The final rankings would be based on your private score which will be published once the [competition](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/) is over
 
 ### Leaderboard 
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/lb)** : **21th/885 Rank**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/lb)** : **21/885 Rank**
 
 
